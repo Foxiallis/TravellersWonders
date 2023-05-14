@@ -1,9 +1,14 @@
-/logs
-/natives
-/saves
-/server-resource-packs
+/logs/
+/local/
+/natives/
+/saves/
+/server-resource-packs/
+/crash-reports/
+/backups/
 
 options.txt
 TLauncherAdditional.json
 Traveller's Wonders.jar
 Traveller's Wonders.json
+usercache.json
+usernamecache.json
