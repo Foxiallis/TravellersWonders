@@ -1,10 +1,10 @@
 
 [Settings]
 	#If enabled, armor model will be displayed next to tooltip.
-	ArmorPreview = true
+	ArmorPreview = false
 	#If enabled, item icons will be 3D. This option is
 	#overridden by entries from the resource pack.
-	3DModels = true
+	3DModels = false
 	#Basic icon scale. This option is overridden by entries from
 	#the resource pack.
 	#Range: 1.0 ~ 20.0
