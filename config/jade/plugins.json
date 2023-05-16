@@ -89,6 +89,9 @@
     "ench": true,
     "spawner": true
   },
+  "waystones": {
+    "waystone": true
+  },
   "lootr": {
     "info": true
   }
