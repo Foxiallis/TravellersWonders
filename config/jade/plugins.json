@@ -52,6 +52,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "immersiveengineering": {
     "hemp": true,
     "multiblock_icon": true
