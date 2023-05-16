@@ -81,6 +81,11 @@
     "goggles.detailed": false,
     "placard": true
   },
+  "apotheosis": {
+    "adventure": true,
+    "ench": true,
+    "spawner": true
+  },
   "lootr": {
     "info": true
   }
