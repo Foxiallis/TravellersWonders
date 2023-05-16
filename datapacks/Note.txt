@@ -1,0 +1,1 @@
+Ten folder ma wylądować w folderze ze światem podczas generacji

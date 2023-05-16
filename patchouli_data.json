@@ -1,5 +1,18 @@
 {
-  "bookGuiScale": 0,
+  "bookGuiScale": 4,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "enigmaticlegacy:the_acknowledgment": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_elemental:equipment/curio_bag"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
