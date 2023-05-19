@@ -1,0 +1,19 @@
+{"key":"occultism_iesnium",
+"category":"metal",
+"primary":6,
+"secondary":2.9,
+"tertiary":1,
+"durability":1561,
+"integrityCost":2,
+"integrityGain":3,
+"magicCapacity":80,
+"toolLevel":"minecraft:diamond",
+"toolEfficiency":8,
+"tints":{"glyph":"55A5B7","texture":"55A5B7"},
+"textures":[ "metal", "default" ],
+"material":{"items":["occultism:iesnium_ingot"]},
+"effects" : {
+    "stabilizing" : 4
+},
+"requiredTools":{"hammer_dig":"minecraft:stone"}
+}

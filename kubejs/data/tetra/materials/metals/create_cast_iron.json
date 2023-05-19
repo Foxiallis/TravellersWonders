@@ -1,0 +1,24 @@
+{
+    "key" : "create_cast_iron",
+    "category" : "metal",
+    "primary" : 6.0,
+    "secondary" : 4,
+    "tertiary" : 1,
+    "durability" : 512,
+    "integrityCost" : 2,
+    "integrityGain" : 5,
+    "magicCapacity" : 72,
+    "toolLevel" : "minecraft:iron",
+    "toolEfficiency" : 6.5,
+    "tints" : {
+      "glyph" : "1E1E1E",
+      "texture" : "1E1E1E"
+    },
+    "textures" : [ "metal", "default" ],
+    "material" : {
+      "items" : [ "createbigcannons:cast_iron_ingot" ]
+    },
+    "requiredTools" : {
+      "hammer_dig" : "minecraft:stone"
+    }
+  }

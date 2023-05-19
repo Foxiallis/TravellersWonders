@@ -1,0 +1,24 @@
+{
+    "key" : "enigmaticlegacy_evil_ingot",
+    "category" : "metal",
+    "primary" : 18.0,
+    "secondary" : 5,
+    "tertiary" : 4.0,
+    "durability" : 4000,
+    "integrityCost" : 2,
+    "integrityGain" : 10,
+    "magicCapacity" : 160,
+    "toolLevel" : "tetranomicon:six",
+    "toolEfficiency" : 10.0,
+    "tints" : {
+      "glyph" : "82139E",
+      "texture" : "82139E"
+    },
+    "textures" : [ "metal", "default" ],
+    "material" : {
+      "items" : [ "enigmaticlegacy:evil_ingot" ]
+    },
+    "requiredTools" : {
+      "hammer_dig" : "tetranomicon:six"
+    }
+  }

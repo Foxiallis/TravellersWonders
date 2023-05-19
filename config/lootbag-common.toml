@@ -3,7 +3,7 @@
 [general]
 	#Drop chance of Loot Bag
 	#Range: 0 ~ 100
-	Chance = 4
+	Chance = 1
 	#Only drop Loot Bag by natural entity
 	onlyDropByNaturalEntity = true
 	#Spawn different Loot Bag in different biomes

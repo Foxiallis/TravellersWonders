@@ -1,0 +1,27 @@
+{
+    "key" : "born_in_chaos_dark_metal",
+    "category" : "metal",
+    "primary" : 6.2,
+    "secondary" : 3.5,
+    "tertiary" : 2.1,
+    "durability" : 1365,
+    "integrityCost" : 2,
+    "integrityGain" : 5,
+    "magicCapacity" : 99,
+    "toolLevel" : "minecraft:diamond",
+    "toolEfficiency" : 8.0,
+    "tints" : {
+        "glyph" : "4F4C54",
+        "texture" : "4F4C54"
+    },
+    "textures" : [ "metal", "default" ],
+    "material" : {
+        "items" : [ "born_in_chaos_v1:dark_metal_ingot" ]
+    },
+    "effects" : {
+        "stabilizing" : 8
+    },
+    "requiredTools" : {
+        "hammer_dig" : "minecraft:diamond"
+    }
+}

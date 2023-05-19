@@ -1,0 +1,27 @@
+{
+  "key" : "cataclysm_ignitium",
+  "category" : "metal",
+  "primary" : 12.0,
+  "secondary" : 4.6,
+  "tertiary" : 4.0,
+  "durability" : 1400,
+  "integrityCost" : 2,
+  "integrityGain" : 10,
+  "magicCapacity" : 132,
+  "toolLevel" : "tetranomicon:six",
+  "toolEfficiency" : 10.0,
+  "effects" : {
+    "fierySelf":[6,0.5]
+  },
+  "tints" : {
+    "glyph" : "F99400",
+    "texture" : "F99400"
+  },
+  "textures" : [ "metal", "default" ],
+  "material" : {
+    "items" : [ "cataclysm:ignitium_ingot" ]
+  },
+  "requiredTools" : {
+    "hammer_dig" : "tetranomicon:six"
+  }
+}
