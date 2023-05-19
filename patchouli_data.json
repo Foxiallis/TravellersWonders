@@ -3,7 +3,13 @@
   "clickedVisualize": false,
   "bookData": {
     "enigmaticlegacy:the_acknowledgment": {
-      "viewedEntries": [],
+      "viewedEntries": [
+        "enigmaticlegacy:world/ancient_tomes",
+        "enigmaticlegacy:world/first_glance",
+        "enigmaticlegacy:accessories/iron_ring",
+        "enigmaticlegacy:relics/enigmatic_eye",
+        "enigmaticlegacy:relics/cursed_ring"
+      ],
       "bookmarks": [],
       "completedManualQuests": []
     },
