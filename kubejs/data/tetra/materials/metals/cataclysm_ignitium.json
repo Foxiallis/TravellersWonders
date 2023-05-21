@@ -1,14 +1,14 @@
 {
   "key" : "cataclysm_ignitium",
   "category" : "metal",
-  "primary" : 12.0,
+  "primary" : 14.0,
   "secondary" : 4.6,
   "tertiary" : 4.0,
   "durability" : 1400,
   "integrityCost" : 2,
   "integrityGain" : 10,
   "magicCapacity" : 132,
-  "toolLevel" : "tetranomicon:six",
+  "toolLevel" : "minecraft:netherite",
   "toolEfficiency" : 10.0,
   "effects" : {
     "fierySelf":[6,0.5]
@@ -22,6 +22,6 @@
     "items" : [ "cataclysm:ignitium_ingot" ]
   },
   "requiredTools" : {
-    "hammer_dig" : "tetranomicon:six"
+    "hammer_dig" : "minecraft:netherite"
   }
 }

@@ -18,20 +18,13 @@ JEIEvents.hideItems(event => {
 })
 
 JEIEvents.removeCategories(event => {
-	//console.log(event.getCategoryIds())
-
-	const removeCategories = [
+	[
 	'create:draining',
 	'create:automatic_shapeless',
 	'create:automatic_shaped',
 	'create:automatic_packaging',
 	'create:automatic_packing'
-	]
-
-	removeCategories.forEach((catid) => {
-		// console.log('Removing category id for: ' + catid)
-		event.remove(catid)
-	})
+	].forEach((catid) => {event.remove(catid)})
 })
 
 

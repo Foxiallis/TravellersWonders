@@ -1,5 +1,5 @@
 #skip unloaded block entities that are eligible for conversion, set to false to potentially resolve issues with containers that aren't being converted [default: true]
-skip_unloaded = true
+skip_unloaded = false
 #whether or not the entire forge:chests/wooden tag should be added to the conversion list for structures (if they are backed by RandomizableContainerBlockEntity)
 convert_wooden_chests = true
 #list of loot tables which will decay (default blank, meaning no chests decay, in the format of (in the format of ["modid:loot_table", "othermodid:other_loot_table"])

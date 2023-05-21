@@ -1549,7 +1549,7 @@
 	"Overlay Shader" = false
 	"Narrator Readout" = false
 	"Game Nerfs" = false
-	"Enchantments Begone" = false
+	"Enchantments Begone" = true
 	#This feature generates Resource Pack Item Model predicates on the items defined in 'Items to Change'
 	#for the Enchantments defined in 'Enchantments to Register'.
 	#
@@ -1587,7 +1587,7 @@
 		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
 
 	[experimental.enchantments_begone]
-		"Enchantments To Begone" = []
+		"Enchantments To Begone" = ["the_bumblezone:neurotoxins", "ensorcellation:soulbound"]
 
 	[experimental.enchantment_predicates]
 		"Items To Change" = []
@@ -1598,13 +1598,13 @@
 		"Vertical Shift" = 0
 
 [oddities]
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	"Tiny Potato" = true
-	Pipes = true
-	"Matrix Enchanting" = true
+	Pipes = false
+	"Matrix Enchanting" = false
 	Magnets = true
 	Crate = true
-	Backpack = true
+	Backpack = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
