@@ -7,4 +7,13 @@ ServerEvents.recipes(event => {
         D: 'born_in_chaos_v1:pieceofdarkmetal',
         C: 'graveyard:corruption'
     })
+
+    event.shaped('createaddition:diamond_grit_sandpaper', [
+        ' D ',
+        'DPD',
+        ' D '
+    ], {
+        D: 'spelunkery:rough_diamond_shard',
+        P: 'minecraft:paper'
+    })
 });

@@ -13,7 +13,8 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:axe_steel',
         'immersiveengineering:shovel_steel',
         'immersiveengineering:hoe_steel',
-        'immersiveengineering:sword_steel'
+        'immersiveengineering:sword_steel',
+		'apotheosis:prismatic_web'
 	])
 })
 
