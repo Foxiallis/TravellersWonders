@@ -14,7 +14,11 @@ JEIEvents.hideItems(event => {
         'immersiveengineering:shovel_steel',
         'immersiveengineering:hoe_steel',
         'immersiveengineering:sword_steel',
-		'apotheosis:prismatic_web'
+		'apotheosis:prismatic_web',
+		'wandering_bags:silver_armor_helmet',
+		'wandering_bags:silver_armor_chestplate',
+		'wandering_bags:silver_armor_leggings',
+		'wandering_bags:silver_armor_feet'
 	])
 })
 

@@ -1,0 +1,915 @@
+-------------------------------------
+Mod name, Registry name, ID, Category
+-------------------------------------
+Abundant Atmosphere, abundant_atmosphere:boat, 180, misc
+Abundant Atmosphere, abundant_atmosphere:chest_boat, 181, misc
+Alex's Mobs, alexsmobs:alligator_snapping_turtle, 418, creature
+Alex's Mobs, alexsmobs:anaconda, 457, creature
+Alex's Mobs, alexsmobs:anaconda_part, 458, misc
+Alex's Mobs, alexsmobs:anteater, 460, creature
+Alex's Mobs, alexsmobs:bald_eagle, 440, creature
+Alex's Mobs, alexsmobs:banana_slug, 492, creature
+Alex's Mobs, alexsmobs:bison, 470, creature
+Alex's Mobs, alexsmobs:blobfish, 408, water_ambient
+Alex's Mobs, alexsmobs:blue_jay, 493, creature
+Alex's Mobs, alexsmobs:bone_serpent, 382, monster
+Alex's Mobs, alexsmobs:bone_serpent_part, 383, monster
+Alex's Mobs, alexsmobs:bunfungus, 469, creature
+Alex's Mobs, alexsmobs:cachalot_echo, 436, misc
+Alex's Mobs, alexsmobs:cachalot_whale, 435, water_creature
+Alex's Mobs, alexsmobs:capuchin_monkey, 399, creature
+Alex's Mobs, alexsmobs:catfish, 475, water_ambient
+Alex's Mobs, alexsmobs:centipede_body, 402, misc
+Alex's Mobs, alexsmobs:centipede_head, 401, monster
+Alex's Mobs, alexsmobs:centipede_tail, 403, misc
+Alex's Mobs, alexsmobs:cockroach, 410, ambient
+Alex's Mobs, alexsmobs:cockroach_egg, 411, misc
+Alex's Mobs, alexsmobs:comb_jelly, 467, water_ambient
+Alex's Mobs, alexsmobs:cosmaw, 454, creature
+Alex's Mobs, alexsmobs:cosmic_cod, 468, ambient
+Alex's Mobs, alexsmobs:crimson_mosquito, 391, monster
+Alex's Mobs, alexsmobs:crocodile, 385, water_creature
+Alex's Mobs, alexsmobs:crow, 417, creature
+Alex's Mobs, alexsmobs:devils_hole_pupfish, 474, water_ambient
+Alex's Mobs, alexsmobs:dropbear, 432, monster
+Alex's Mobs, alexsmobs:elephant, 413, creature
+Alex's Mobs, alexsmobs:emu, 429, creature
+Alex's Mobs, alexsmobs:emu_egg, 430, misc
+Alex's Mobs, alexsmobs:endergrade, 394, creature
+Alex's Mobs, alexsmobs:enderiophage, 438, creature
+Alex's Mobs, alexsmobs:enderiophage_rocket, 439, misc
+Alex's Mobs, alexsmobs:farseer, 484, monster
+Alex's Mobs, alexsmobs:fart, 491, misc
+Alex's Mobs, alexsmobs:flutter, 462, ambient
+Alex's Mobs, alexsmobs:fly, 386, ambient
+Alex's Mobs, alexsmobs:flying_fish, 476, water_ambient
+Alex's Mobs, alexsmobs:frilled_shark, 447, water_creature
+Alex's Mobs, alexsmobs:froststalker, 450, creature
+Alex's Mobs, alexsmobs:gazelle, 384, creature
+Alex's Mobs, alexsmobs:gelada_monkey, 464, creature
+Alex's Mobs, alexsmobs:giant_squid, 471, water_creature
+Alex's Mobs, alexsmobs:gorilla, 390, creature
+Alex's Mobs, alexsmobs:grizzly_bear, 380, creature
+Alex's Mobs, alexsmobs:gust, 423, misc
+Alex's Mobs, alexsmobs:guster, 421, monster
+Alex's Mobs, alexsmobs:hammerhead_shark, 395, water_creature
+Alex's Mobs, alexsmobs:hemolymph, 425, misc
+Alex's Mobs, alexsmobs:hummingbird, 387, creature
+Alex's Mobs, alexsmobs:ice_shard, 451, misc
+Alex's Mobs, alexsmobs:jerboa, 465, ambient
+Alex's Mobs, alexsmobs:kangaroo, 434, creature
+Alex's Mobs, alexsmobs:komodo_dragon, 398, creature
+Alex's Mobs, alexsmobs:laviathan, 453, creature
+Alex's Mobs, alexsmobs:leafcutter_ant, 437, creature
+Alex's Mobs, alexsmobs:lobster, 397, water_ambient
+Alex's Mobs, alexsmobs:maned_wolf, 456, creature
+Alex's Mobs, alexsmobs:mantis_shrimp, 420, water_creature
+Alex's Mobs, alexsmobs:mimic_octopus, 448, water_creature
+Alex's Mobs, alexsmobs:mimicube, 406, monster
+Alex's Mobs, alexsmobs:moose, 405, creature
+Alex's Mobs, alexsmobs:mosquito_spit, 392, misc
+Alex's Mobs, alexsmobs:mud_ball, 481, misc
+Alex's Mobs, alexsmobs:mudskipper, 480, creature
+Alex's Mobs, alexsmobs:mungus, 419, creature
+Alex's Mobs, alexsmobs:murmur, 487, monster
+Alex's Mobs, alexsmobs:murmur_head, 488, monster
+Alex's Mobs, alexsmobs:orca, 388, water_creature
+Alex's Mobs, alexsmobs:platypus, 431, creature
+Alex's Mobs, alexsmobs:pollen_ball, 463, misc
+Alex's Mobs, alexsmobs:potoo, 479, creature
+Alex's Mobs, alexsmobs:raccoon, 407, creature
+Alex's Mobs, alexsmobs:rain_frog, 478, ambient
+Alex's Mobs, alexsmobs:rattlesnake, 393, creature
+Alex's Mobs, alexsmobs:rhinoceros, 482, creature
+Alex's Mobs, alexsmobs:roadrunner, 381, creature
+Alex's Mobs, alexsmobs:rocky_roller, 461, monster
+Alex's Mobs, alexsmobs:sand_shot, 422, misc
+Alex's Mobs, alexsmobs:sea_bear, 473, water_creature
+Alex's Mobs, alexsmobs:seagull, 449, creature
+Alex's Mobs, alexsmobs:seal, 409, creature
+Alex's Mobs, alexsmobs:shark_tooth_arrow, 396, misc
+Alex's Mobs, alexsmobs:shoebill, 412, creature
+Alex's Mobs, alexsmobs:skelewag, 477, monster
+Alex's Mobs, alexsmobs:skreecher, 485, monster
+Alex's Mobs, alexsmobs:skunk, 490, creature
+Alex's Mobs, alexsmobs:snow_leopard, 415, creature
+Alex's Mobs, alexsmobs:soul_vulture, 414, monster
+Alex's Mobs, alexsmobs:spectre, 416, creature
+Alex's Mobs, alexsmobs:squid_grapple, 472, misc
+Alex's Mobs, alexsmobs:straddleboard, 428, misc
+Alex's Mobs, alexsmobs:straddler, 426, monster
+Alex's Mobs, alexsmobs:stradpole, 427, water_ambient
+Alex's Mobs, alexsmobs:sugar_glider, 483, creature
+Alex's Mobs, alexsmobs:sunbird, 389, creature
+Alex's Mobs, alexsmobs:tarantula_hawk, 442, creature
+Alex's Mobs, alexsmobs:tasmanian_devil, 433, creature
+Alex's Mobs, alexsmobs:tendon_segment, 489, misc
+Alex's Mobs, alexsmobs:terrapin, 466, water_ambient
+Alex's Mobs, alexsmobs:tiger, 441, creature
+Alex's Mobs, alexsmobs:tossed_item, 400, misc
+Alex's Mobs, alexsmobs:toucan, 455, creature
+Alex's Mobs, alexsmobs:tusklin, 452, creature
+Alex's Mobs, alexsmobs:underminer, 486, ambient
+Alex's Mobs, alexsmobs:vine_lasso, 459, misc
+Alex's Mobs, alexsmobs:void_portal, 446, misc
+Alex's Mobs, alexsmobs:void_worm, 443, monster
+Alex's Mobs, alexsmobs:void_worm_part, 444, monster
+Alex's Mobs, alexsmobs:void_worm_shot, 445, misc
+Alex's Mobs, alexsmobs:warped_mosco, 424, monster
+Alex's Mobs, alexsmobs:warped_toad, 404, creature
+Apotheosis, apotheosis:broadhead_arrow, 377, misc
+Apotheosis, apotheosis:explosive_arrow, 378, misc
+Apotheosis, apotheosis:mining_arrow, 379, misc
+Apotheosis, apotheosis:obsidian_arrow, 376, misc
+Aquamirae, aquamirae:anglerfish, 675, water_creature
+Aquamirae, aquamirae:captain_cornelia, 677, monster
+Aquamirae, aquamirae:eel, 680, monster
+Aquamirae, aquamirae:golden_moth, 673, ambient
+Aquamirae, aquamirae:luminous_jelly, 684, water_ambient
+Aquamirae, aquamirae:maw, 674, monster
+Aquamirae, aquamirae:maze_mother, 676, monster
+Aquamirae, aquamirae:maze_rose, 681, misc
+Aquamirae, aquamirae:pillagers_patrol, 678, monster
+Aquamirae, aquamirae:poisoned_chakra, 682, misc
+Aquamirae, aquamirae:spinefish, 683, water_ambient
+Aquamirae, aquamirae:tortured_soul, 679, monster
+Ars Elemental, ars_elemental:air_mage, 872, monster
+Ars Elemental, ars_elemental:curved_projectile, 882, misc
+Ars Elemental, ars_elemental:earth_mage, 873, monster
+Ars Elemental, ars_elemental:fire_mage, 870, monster
+Ars Elemental, ars_elemental:firenando_entity, 868, creature
+Ars Elemental, ars_elemental:firenando_familiar, 869, creature
+Ars Elemental, ars_elemental:flash_lightning, 885, misc
+Ars Elemental, ars_elemental:flashing_weald_walker, 874, creature
+Ars Elemental, ars_elemental:homing_projectile, 881, misc
+Ars Elemental, ars_elemental:lerp, 884, misc
+Ars Elemental, ars_elemental:linger_magnet, 883, misc
+Ars Elemental, ars_elemental:siren_entity, 866, water_creature
+Ars Elemental, ars_elemental:siren_familiar, 867, water_creature
+Ars Elemental, ars_elemental:summon_direwolf, 876, creature
+Ars Elemental, ars_elemental:summon_dolphin, 878, water_creature
+Ars Elemental, ars_elemental:summon_skelehorse, 875, creature
+Ars Elemental, ars_elemental:summon_strider, 879, creature
+Ars Elemental, ars_elemental:summon_vhex, 880, monster
+Ars Elemental, ars_elemental:summon_wskeleton, 877, creature
+Ars Elemental, ars_elemental:water_mage, 871, monster
+Ars Nouveau, ars_nouveau:ally_vex, 598, misc
+Ars Nouveau, ars_nouveau:amethyst_golem, 631, creature
+Ars Nouveau, ars_nouveau:an_lightning, 615, misc
+Ars Nouveau, ars_nouveau:animated_block, 638, misc
+Ars Nouveau, ars_nouveau:animated_head, 639, misc
+Ars Nouveau, ars_nouveau:blazing_weald_walker, 629, creature
+Ars Nouveau, ars_nouveau:bookwyrm, 600, misc
+Ars Nouveau, ars_nouveau:cascading_weald_walker, 627, creature
+Ars Nouveau, ars_nouveau:drygmy, 617, creature
+Ars Nouveau, ars_nouveau:dummy, 616, misc
+Ars Nouveau, ars_nouveau:enchanted_falling_block, 633, misc
+Ars Nouveau, ars_nouveau:enchanted_head_block, 635, misc
+Ars Nouveau, ars_nouveau:enchanted_mage_block, 634, misc
+Ars Nouveau, ars_nouveau:familiar_amethyst_golem, 625, creature
+Ars Nouveau, ars_nouveau:familiar_bookwyrm, 622, creature
+Ars Nouveau, ars_nouveau:familiar_drygmy, 623, creature
+Ars Nouveau, ars_nouveau:familiar_starbuncle, 620, creature
+Ars Nouveau, ars_nouveau:familiar_whirlisprig, 624, creature
+Ars Nouveau, ars_nouveau:familiar_wixie, 621, creature
+Ars Nouveau, ars_nouveau:fangs, 599, misc
+Ars Nouveau, ars_nouveau:flourishing_weald_walker, 628, creature
+Ars Nouveau, ars_nouveau:flying_item, 605, misc
+Ars Nouveau, ars_nouveau:follow_proj, 602, misc
+Ars Nouveau, ars_nouveau:gift_starby, 636, creature
+Ars Nouveau, ars_nouveau:linger, 626, misc
+Ars Nouveau, ars_nouveau:orbit, 618, misc
+Ars Nouveau, ars_nouveau:ritual, 606, misc
+Ars Nouveau, ars_nouveau:scryer_camera, 632, misc
+Ars Nouveau, ars_nouveau:spell_arrow, 608, misc
+Ars Nouveau, ars_nouveau:spell_proj, 597, misc
+Ars Nouveau, ars_nouveau:spike, 619, misc
+Ars Nouveau, ars_nouveau:starbuncle, 601, creature
+Ars Nouveau, ars_nouveau:summon_horse, 611, creature
+Ars Nouveau, ars_nouveau:summon_skeleton, 612, creature
+Ars Nouveau, ars_nouveau:summon_wolf, 609, creature
+Ars Nouveau, ars_nouveau:vexing_weald_walker, 630, creature
+Ars Nouveau, ars_nouveau:wall, 637, misc
+Ars Nouveau, ars_nouveau:whirlisprig, 603, creature
+Ars Nouveau, ars_nouveau:wilden_boss, 614, monster
+Ars Nouveau, ars_nouveau:wilden_guardian, 613, monster
+Ars Nouveau, ars_nouveau:wilden_hunter, 607, monster
+Ars Nouveau, ars_nouveau:wilden_stalker, 610, monster
+Ars Nouveau, ars_nouveau:wixie, 604, misc
+Atmospheric, atmospheric:passionfruit_seed, 814, misc
+Autumnity, autumnity:falling_head_block, 736, misc
+Autumnity, autumnity:snail, 733, creature
+Autumnity, autumnity:turkey, 734, creature
+Autumnity, autumnity:turkey_egg, 735, misc
+Blueprint, blueprint:boat, 693, misc
+Blueprint, blueprint:chest_boat, 694, misc
+Blueprint, blueprint:falling_block, 695, misc
+Born in Chaos , born_in_chaos_v1:baby_skeleton, 515, monster
+Born in Chaos , born_in_chaos_v1:baby_skeleton_2, 516, monster
+Born in Chaos , born_in_chaos_v1:baby_skeleton_minion, 543, monster
+Born in Chaos , born_in_chaos_v1:barrel_zombie, 517, monster
+Born in Chaos , born_in_chaos_v1:bone_imp, 528, monster
+Born in Chaos , born_in_chaos_v1:bone_imp_2, 529, monster
+Born in Chaos , born_in_chaos_v1:bone_imp_minion, 546, monster
+Born in Chaos , born_in_chaos_v1:bonescaller, 526, monster
+Born in Chaos , born_in_chaos_v1:bonescaller_not_despawn, 502, monster
+Born in Chaos , born_in_chaos_v1:controlled_baby_skeleton, 544, monster
+Born in Chaos , born_in_chaos_v1:dark_vortex, 531, monster
+Born in Chaos , born_in_chaos_v1:decaying_zombie, 514, monster
+Born in Chaos , born_in_chaos_v1:decaying_zombie_not_despawn, 500, monster
+Born in Chaos , born_in_chaos_v1:decrepit_skeleton, 512, monster
+Born in Chaos , born_in_chaos_v1:diamond_termite, 525, monster
+Born in Chaos , born_in_chaos_v1:door_knight, 519, monster
+Born in Chaos , born_in_chaos_v1:door_knight_not_despawn, 501, monster
+Born in Chaos , born_in_chaos_v1:dread_hound, 533, monster
+Born in Chaos , born_in_chaos_v1:dread_hound_not_despawn, 505, monster
+Born in Chaos , born_in_chaos_v1:fallen_chaos_knight, 534, monster
+Born in Chaos , born_in_chaos_v1:felsteed, 550, monster
+Born in Chaos , born_in_chaos_v1:firelight, 524, monster
+Born in Chaos , born_in_chaos_v1:firelight_not_despawn, 506, monster
+Born in Chaos , born_in_chaos_v1:mr_pumpkin, 539, monster
+Born in Chaos , born_in_chaos_v1:mr_pumpkin_controlled, 549, monster
+Born in Chaos , born_in_chaos_v1:nightmare_stalker, 530, monster
+Born in Chaos , born_in_chaos_v1:phantom_creeper, 518, monster
+Born in Chaos , born_in_chaos_v1:phantom_creeper_copy, 545, monster
+Born in Chaos , born_in_chaos_v1:projectile_intoxicatind_bomb, 511, misc
+Born in Chaos , born_in_chaos_v1:projectile_pumpkin_staff, 510, misc
+Born in Chaos , born_in_chaos_v1:projectile_pumpkin_staff_2, 542, misc
+Born in Chaos , born_in_chaos_v1:projectile_staffof_blindness, 508, misc
+Born in Chaos , born_in_chaos_v1:projectile_staffof_magic_arrows, 509, misc
+Born in Chaos , born_in_chaos_v1:projectile_staffof_magic_arrows_2, 541, misc
+Born in Chaos , born_in_chaos_v1:pumpkin_spirit, 522, monster
+Born in Chaos , born_in_chaos_v1:pumpkinhead, 553, monster
+Born in Chaos , born_in_chaos_v1:restless_spirit, 520, monster
+Born in Chaos , born_in_chaos_v1:riding_felsteed, 554, monster
+Born in Chaos , born_in_chaos_v1:scarlet_persecutor, 535, monster
+Born in Chaos , born_in_chaos_v1:seared_spirit, 523, monster
+Born in Chaos , born_in_chaos_v1:shy_spirit, 536, monster
+Born in Chaos , born_in_chaos_v1:sir_pumpkinhead, 540, monster
+Born in Chaos , born_in_chaos_v1:sir_pumpkinhead_without_horse, 551, monster
+Born in Chaos , born_in_chaos_v1:sir_the_headless, 552, monster
+Born in Chaos , born_in_chaos_v1:skeleton_demoman, 513, monster
+Born in Chaos , born_in_chaos_v1:skeleton_thrasher, 521, monster
+Born in Chaos , born_in_chaos_v1:skeleton_thrasher_not_despawn, 504, monster
+Born in Chaos , born_in_chaos_v1:spirit_guide, 537, monster
+Born in Chaos , born_in_chaos_v1:spirit_guide_assistant, 548, monster
+Born in Chaos , born_in_chaos_v1:supreme_bonescaller, 527, monster
+Born in Chaos , born_in_chaos_v1:supreme_bonescaller_not_despawn, 503, monster
+Born in Chaos , born_in_chaos_v1:supreme_bonescaller_stage_2, 547, monster
+Born in Chaos , born_in_chaos_v1:wither_scuttler, 532, monster
+Born in Chaos , born_in_chaos_v1:zombie_clown, 538, monster
+Born in Chaos , born_in_chaos_v1:zombie_clown_not_despawn, 507, monster
+Botania, botania:babylon_weapon, 173, misc
+Botania, botania:corporea_spark, 167, misc
+Botania, botania:doppleganger, 161, monster
+Botania, botania:ender_air, 175, misc
+Botania, botania:ender_air_bottle, 168, misc
+Botania, botania:falling_star, 174, misc
+Botania, botania:flame_ring, 159, misc
+Botania, botania:magic_landmine, 162, misc
+Botania, botania:magic_missile, 165, misc
+Botania, botania:mana_burst, 157, misc
+Botania, botania:mana_storm, 172, misc
+Botania, botania:pink_wither, 170, misc
+Botania, botania:pixie, 158, misc
+Botania, botania:player_mover, 171, misc
+Botania, botania:pool_minecart, 169, misc
+Botania, botania:spark, 163, misc
+Botania, botania:thorn_chakram, 166, misc
+Botania, botania:thrown_item, 164, misc
+Botania, botania:vine_ball, 160, misc
+Buzzier Bees, buzzier_bees:grizzly_bear, 737, creature
+Buzzier Bees, buzzier_bees:moobloom, 738, creature
+Cataclysm Mod, cataclysm:ashen_breath, 586, misc
+Cataclysm Mod, cataclysm:blazing_bone, 579, misc
+Cataclysm Mod, cataclysm:charge_watcher, 587, misc
+Cataclysm Mod, cataclysm:cm_falling_block, 581, misc
+Cataclysm Mod, cataclysm:death_laser_beam, 589, misc
+Cataclysm Mod, cataclysm:ender_golem, 566, monster
+Cataclysm Mod, cataclysm:ender_guardian, 567, monster
+Cataclysm Mod, cataclysm:ender_guardian_bullet, 572, misc
+Cataclysm Mod, cataclysm:endermaptera, 574, monster
+Cataclysm Mod, cataclysm:eye_of_dungeon, 595, misc
+Cataclysm Mod, cataclysm:flame_strike, 585, misc
+Cataclysm Mod, cataclysm:ignis, 571, monster
+Cataclysm Mod, cataclysm:ignis_abyss_fireball, 583, misc
+Cataclysm Mod, cataclysm:ignis_fireball, 582, misc
+Cataclysm Mod, cataclysm:ignited_revenant, 575, monster
+Cataclysm Mod, cataclysm:laser_beam, 590, misc
+Cataclysm Mod, cataclysm:lava_bomb, 569, misc
+Cataclysm Mod, cataclysm:nameless_sorcerer, 570, monster
+Cataclysm Mod, cataclysm:netherite_monstrosity, 568, monster
+Cataclysm Mod, cataclysm:screen_shake, 580, misc
+Cataclysm Mod, cataclysm:the_harbinger, 576, monster
+Cataclysm Mod, cataclysm:void_howitzer, 594, misc
+Cataclysm Mod, cataclysm:void_rune, 573, misc
+Cataclysm Mod, cataclysm:void_scatter_arrow, 577, misc
+Cataclysm Mod, cataclysm:void_shard, 578, misc
+Cataclysm Mod, cataclysm:void_vortex, 596, misc
+Cataclysm Mod, cataclysm:wall_watcher, 588, misc
+Cataclysm Mod, cataclysm:wither_homing_missile, 592, misc
+Cataclysm Mod, cataclysm:wither_howitzer, 593, misc
+Cataclysm Mod, cataclysm:wither_missile, 591, misc
+Cataclysm Mod, cataclysm:wither_smoke_effect, 584, misc
+CoFH Core, cofh_core:electric_arc, 258, misc
+CoFH Core, cofh_core:electric_field, 259, misc
+CoFH Core, cofh_core:knife, 257, misc
+Create, create:carriage_contraption, 690, misc
+Create, create:contraption, 687, misc
+Create, create:crafting_blueprint, 686, misc
+Create, create:gantry_contraption, 689, misc
+Create, create:potato_projectile, 691, misc
+Create, create:seat, 692, misc
+Create, create:stationary_contraption, 688, misc
+Create, create:super_glue, 685, misc
+Create Big Cannons, createbigcannons:ap_autocannon, 239, misc
+Create Big Cannons, createbigcannons:ap_shell, 230, misc
+Create Big Cannons, createbigcannons:ap_shot, 228, misc
+Create Big Cannons, createbigcannons:bag_of_grapeshot, 232, misc
+Create Big Cannons, createbigcannons:cannon_carriage, 225, misc
+Create Big Cannons, createbigcannons:flak_autocannon, 240, misc
+Create Big Cannons, createbigcannons:fluid_blob, 238, misc
+Create Big Cannons, createbigcannons:fluid_shell, 231, misc
+Create Big Cannons, createbigcannons:grapeshot, 237, misc
+Create Big Cannons, createbigcannons:he_shell, 226, misc
+Create Big Cannons, createbigcannons:mortar_stone, 233, misc
+Create Big Cannons, createbigcannons:pitch_contraption, 234, misc
+Create Big Cannons, createbigcannons:shot, 235, misc
+Create Big Cannons, createbigcannons:shrapnel, 236, misc
+Create Big Cannons, createbigcannons:shrapnel_shell, 227, misc
+Create Big Cannons, createbigcannons:traffic_cone, 229, misc
+Create Enchantment Industry, create_enchantment_industry:hyper_experience_bottle, 903, misc
+Create Enchantment Industry, create_enchantment_industry:hyper_experience_orb, 902, misc
+Creatures and Beasts, cnb:cactem, 561, creature
+Creatures and Beasts, cnb:cindershell, 563, creature
+Creatures and Beasts, cnb:end_whale, 560, creature
+Creatures and Beasts, cnb:lilytad, 557, creature
+Creatures and Beasts, cnb:little_grebe, 555, creature
+Creatures and Beasts, cnb:lizard, 556, creature
+Creatures and Beasts, cnb:lizard_egg, 564, misc
+Creatures and Beasts, cnb:minipad, 559, creature
+Creatures and Beasts, cnb:sporeling, 558, creature
+Creatures and Beasts, cnb:thrown_cactem_spear, 565, misc
+Creatures and Beasts, cnb:yeti, 562, creature
+Creeper Overhaul, creeperoverhaul:badlands_creeper, 889, monster
+Creeper Overhaul, creeperoverhaul:bamboo_creeper, 887, monster
+Creeper Overhaul, creeperoverhaul:beach_creeper, 898, monster
+Creeper Overhaul, creeperoverhaul:cave_creeper, 895, monster
+Creeper Overhaul, creeperoverhaul:dark_oak_creeper, 896, monster
+Creeper Overhaul, creeperoverhaul:desert_creeper, 888, monster
+Creeper Overhaul, creeperoverhaul:dripstone_creeper, 894, monster
+Creeper Overhaul, creeperoverhaul:hills_creeper, 890, monster
+Creeper Overhaul, creeperoverhaul:jungle_creeper, 886, monster
+Creeper Overhaul, creeperoverhaul:mushroom_creeper, 892, creature
+Creeper Overhaul, creeperoverhaul:ocean_creeper, 900, monster
+Creeper Overhaul, creeperoverhaul:savannah_creeper, 891, monster
+Creeper Overhaul, creeperoverhaul:snowy_creeper, 899, monster
+Creeper Overhaul, creeperoverhaul:spruce_creeper, 897, monster
+Creeper Overhaul, creeperoverhaul:swamp_creeper, 893, monster
+Critters and Companions, crittersandcompanions:dragonfly, 664, ambient
+Critters and Companions, crittersandcompanions:dumbo_octopus, 665, water_ambient
+Critters and Companions, crittersandcompanions:ferret, 666, creature
+Critters and Companions, crittersandcompanions:koi_fish, 667, water_ambient
+Critters and Companions, crittersandcompanions:leaf_insect, 668, creature
+Critters and Companions, crittersandcompanions:otter, 669, water_creature
+Critters and Companions, crittersandcompanions:red_panda, 670, creature
+Critters and Companions, crittersandcompanions:sea_bunny, 671, water_ambient
+Darker Depths, darkerdepths:glowshroom_monster, 179, monster
+Darker Depths, darkerdepths:petrified_boat, 177, misc
+Darker Depths, darkerdepths:petrified_chest_boat, 178, misc
+Deeper and Darker, deeperdarker:boat, 649, misc
+Deeper and Darker, deeperdarker:chest_boat, 650, misc
+Deeper and Darker, deeperdarker:sculk_centipede, 651, monster
+Deeper and Darker, deeperdarker:sculk_leech, 646, monster
+Deeper and Darker, deeperdarker:sculk_snapper, 647, monster
+Deeper and Darker, deeperdarker:shattered, 645, monster
+Deeper and Darker, deeperdarker:shriek_worm, 648, monster
+Deeper and Darker, deeperdarker:stalker, 652, monster
+Ecologics, ecologics:boat, 317, misc
+Ecologics, ecologics:camel, 316, creature
+Ecologics, ecologics:chest_boat, 318, misc
+Ecologics, ecologics:coconut_crab, 315, creature
+Ecologics, ecologics:penguin, 319, creature
+Ecologics, ecologics:squirrel, 320, creature
+Engineer's Decor, engineersdecor:et_chair, 901, misc
+Enigmatic Legacy, enigmaticlegacy:enigmatic_potion_entity, 641, misc
+Enigmatic Legacy, enigmaticlegacy:permanent_item_entity, 640, misc
+Enigmatic Legacy, enigmaticlegacy:ultimate_wither_skull_entity, 642, misc
+Environmental, environmental:deer, 698, creature
+Environmental, environmental:duck, 697, creature
+Environmental, environmental:duck_egg, 704, misc
+Environmental, environmental:fennec_fox, 702, creature
+Environmental, environmental:koi, 701, water_ambient
+Environmental, environmental:mud_ball, 705, misc
+Environmental, environmental:slabfish, 696, creature
+Environmental, environmental:tapir, 703, creature
+Environmental, environmental:yak, 700, creature
+Environmental, environmental:zombie_deer, 699, creature
+Fairy Lights, fairylights:fastener, 176, misc
+Farmer's Delight, farmersdelight:rotten_tomato, 498, misc
+Gateways To Eternity, gateways:gateway, 144, misc
+Goblin Traders, goblintraders:goblin_trader, 255, creature
+Goblin Traders, goblintraders:vein_goblin_trader, 256, creature
+Handcrafted, handcrafted:fancy_painting, 145, misc
+Handcrafted, handcrafted:seat, 146, misc
+Hex Casting, hexcasting:wall_scroll, 740, misc
+Hexal, hexal:wisp/projectile, 659, misc
+Hexal, hexal:wisp/ticking, 660, misc
+Hexal, hexal:wisp/wandering, 658, misc
+Illage And Spillage, illageandspillage:absorber, 207, monster
+Illage And Spillage, illageandspillage:axe, 219, monster
+Illage And Spillage, illageandspillage:boss_randomizer, 195, monster
+Illage And Spillage, illageandspillage:camera_shake, 205, misc
+Illage And Spillage, illageandspillage:crashager, 194, monster
+Illage And Spillage, illageandspillage:crocofang, 204, monster
+Illage And Spillage, illageandspillage:dark_potion, 220, misc
+Illage And Spillage, illageandspillage:devastator, 206, monster
+Illage And Spillage, illageandspillage:dispenser, 192, monster
+Illage And Spillage, illageandspillage:faker, 191, monster
+Illage And Spillage, illageandspillage:freakager, 210, monster
+Illage And Spillage, illageandspillage:hay_armor, 209, misc
+Illage And Spillage, illageandspillage:igniter, 189, monster
+Illage And Spillage, illageandspillage:igniter_fireball, 200, misc
+Illage And Spillage, illageandspillage:illager_soul, 199, monster
+Illage And Spillage, illageandspillage:illashooter, 193, monster
+Illage And Spillage, illageandspillage:imp, 201, creature
+Illage And Spillage, illageandspillage:kaboomer, 217, monster
+Illage And Spillage, illageandspillage:magi_arrow, 215, misc
+Illage And Spillage, illageandspillage:magi_fireball, 214, misc
+Illage And Spillage, illageandspillage:magi_heal, 216, monster
+Illage And Spillage, illageandspillage:magispeller, 190, monster
+Illage And Spillage, illageandspillage:mob_spirit, 198, monster
+Illage And Spillage, illageandspillage:old_magispeller, 213, monster
+Illage And Spillage, illageandspillage:preserver, 208, monster
+Illage And Spillage, illageandspillage:pumpkin_bomb, 218, monster
+Illage And Spillage, illageandspillage:ragno, 211, monster
+Illage And Spillage, illageandspillage:scythe, 221, monster
+Illage And Spillage, illageandspillage:skull_bomb, 212, monster
+Illage And Spillage, illageandspillage:soul_beam, 203, misc
+Illage And Spillage, illageandspillage:spirit_hand, 202, creature
+Illage And Spillage, illageandspillage:spiritcaller, 197, monster
+Illage And Spillage, illageandspillage:trick_or_treat, 222, monster
+Illage And Spillage, illageandspillage:twittollager, 196, monster
+Illage And Spillage, illageandspillage:villager_soul, 224, monster
+Illage And Spillage, illageandspillage:web, 223, monster
+Immersive Aircraft, immersive_aircraft:airship, 906, misc
+Immersive Aircraft, immersive_aircraft:biplane, 905, misc
+Immersive Aircraft, immersive_aircraft:gyrodyne, 904, misc
+Immersive Aircraft, immersive_aircraft:quadrocopter, 907, misc
+Immersive Engineering, immersiveengineering:bulwark, 757, monster
+Immersive Engineering, immersiveengineering:cart_metalbarrel, 753, misc
+Immersive Engineering, immersiveengineering:cart_reinforcedcrate, 751, misc
+Immersive Engineering, immersiveengineering:cart_woodenbarrel, 752, misc
+Immersive Engineering, immersiveengineering:cart_woodencrate, 750, misc
+Immersive Engineering, immersiveengineering:chemthrower_shot, 741, misc
+Immersive Engineering, immersiveengineering:commando, 756, monster
+Immersive Engineering, immersiveengineering:explosive, 743, misc
+Immersive Engineering, immersiveengineering:fluorescent_tube, 742, misc
+Immersive Engineering, immersiveengineering:fusilier, 755, monster
+Immersive Engineering, immersiveengineering:railgun_shot, 744, misc
+Immersive Engineering, immersiveengineering:revolver_shot, 745, misc
+Immersive Engineering, immersiveengineering:revolver_shot_flare, 746, misc
+Immersive Engineering, immersiveengineering:revolver_shot_homing, 747, misc
+Immersive Engineering, immersiveengineering:revolver_shot_wolfpack, 749, misc
+Immersive Engineering, immersiveengineering:sawblade, 754, misc
+Immersive Engineering, immersiveengineering:skyline_hook, 748, misc
+InsaneLib, insanelib:area_effect_cloud_3d, 375, misc
+Items To Mobs, items_to_mobs:cauldron_ride, 369, creature
+Items To Mobs, items_to_mobs:dragon_breath, 371, monster
+Items To Mobs, items_to_mobs:fire_fox, 372, monster
+Items To Mobs, items_to_mobs:furnace_golem, 368, monster
+Items To Mobs, items_to_mobs:quartz_crab, 373, monster
+Items To Mobs, items_to_mobs:redstone_bug, 374, monster
+Items To Mobs, items_to_mobs:shears_ant, 370, monster
+Items To Mobs, items_to_mobs:totem_undying, 367, creature
+Items To Mobs, items_to_mobs:totem_undying_spawn, 366, creature
+Labels, labels:label, 758, misc
+Lootr, lootr:lootr_minecart, 321, misc
+Majrusz's Progressive Difficulty, majruszsdifficulty:black_widow, 122, monster
+Majrusz's Progressive Difficulty, majruszsdifficulty:cerberus, 121, monster
+Majrusz's Progressive Difficulty, majruszsdifficulty:creeperling, 118, monster
+Majrusz's Progressive Difficulty, majruszsdifficulty:cursed_armor, 120, monster
+Majrusz's Progressive Difficulty, majruszsdifficulty:tank, 119, monster
+Minecraft, minecraft:allay, 0, creature
+Minecraft, minecraft:area_effect_cloud, 1, misc
+Minecraft, minecraft:armor_stand, 2, misc
+Minecraft, minecraft:arrow, 3, misc
+Minecraft, minecraft:axolotl, 4, axolotls
+Minecraft, minecraft:bat, 5, ambient
+Minecraft, minecraft:bee, 6, creature
+Minecraft, minecraft:blaze, 7, monster
+Minecraft, minecraft:boat, 8, misc
+Minecraft, minecraft:cat, 10, creature
+Minecraft, minecraft:cave_spider, 11, monster
+Minecraft, minecraft:chest_boat, 9, misc
+Minecraft, minecraft:chest_minecart, 54, misc
+Minecraft, minecraft:chicken, 12, creature
+Minecraft, minecraft:cod, 13, water_ambient
+Minecraft, minecraft:command_block_minecart, 55, misc
+Minecraft, minecraft:cow, 14, creature
+Minecraft, minecraft:creeper, 15, monster
+Minecraft, minecraft:dolphin, 16, water_creature
+Minecraft, minecraft:donkey, 17, creature
+Minecraft, minecraft:dragon_fireball, 18, misc
+Minecraft, minecraft:drowned, 19, monster
+Minecraft, minecraft:egg, 93, misc
+Minecraft, minecraft:elder_guardian, 20, monster
+Minecraft, minecraft:end_crystal, 21, misc
+Minecraft, minecraft:ender_dragon, 22, monster
+Minecraft, minecraft:ender_pearl, 94, misc
+Minecraft, minecraft:enderman, 23, monster
+Minecraft, minecraft:endermite, 24, monster
+Minecraft, minecraft:evoker, 25, monster
+Minecraft, minecraft:evoker_fangs, 26, misc
+Minecraft, minecraft:experience_bottle, 95, misc
+Minecraft, minecraft:experience_orb, 27, misc
+Minecraft, minecraft:eye_of_ender, 28, misc
+Minecraft, minecraft:falling_block, 29, misc
+Minecraft, minecraft:fireball, 46, misc
+Minecraft, minecraft:firework_rocket, 30, misc
+Minecraft, minecraft:fishing_bobber, 117, misc
+Minecraft, minecraft:fox, 31, creature
+Minecraft, minecraft:frog, 32, creature
+Minecraft, minecraft:furnace_minecart, 56, misc
+Minecraft, minecraft:ghast, 33, monster
+Minecraft, minecraft:giant, 34, monster
+Minecraft, minecraft:glow_item_frame, 35, misc
+Minecraft, minecraft:glow_squid, 36, underground_water_creature
+Minecraft, minecraft:goat, 37, creature
+Minecraft, minecraft:guardian, 38, monster
+Minecraft, minecraft:hoglin, 39, monster
+Minecraft, minecraft:hopper_minecart, 57, misc
+Minecraft, minecraft:horse, 40, creature
+Minecraft, minecraft:husk, 41, monster
+Minecraft, minecraft:illusioner, 42, monster
+Minecraft, minecraft:iron_golem, 43, misc
+Minecraft, minecraft:item, 44, misc
+Minecraft, minecraft:item_frame, 45, misc
+Minecraft, minecraft:leash_knot, 47, misc
+Minecraft, minecraft:lightning_bolt, 48, misc
+Minecraft, minecraft:llama, 49, creature
+Minecraft, minecraft:llama_spit, 50, misc
+Minecraft, minecraft:magma_cube, 51, monster
+Minecraft, minecraft:marker, 52, misc
+Minecraft, minecraft:minecart, 53, misc
+Minecraft, minecraft:mooshroom, 61, creature
+Minecraft, minecraft:mule, 60, creature
+Minecraft, minecraft:ocelot, 62, creature
+Minecraft, minecraft:painting, 63, misc
+Minecraft, minecraft:panda, 64, creature
+Minecraft, minecraft:parrot, 65, creature
+Minecraft, minecraft:phantom, 66, monster
+Minecraft, minecraft:pig, 67, creature
+Minecraft, minecraft:piglin, 68, monster
+Minecraft, minecraft:piglin_brute, 69, monster
+Minecraft, minecraft:pillager, 70, monster
+Minecraft, minecraft:player, 116, misc
+Minecraft, minecraft:polar_bear, 71, creature
+Minecraft, minecraft:potion, 96, misc
+Minecraft, minecraft:pufferfish, 73, water_ambient
+Minecraft, minecraft:rabbit, 74, creature
+Minecraft, minecraft:ravager, 75, monster
+Minecraft, minecraft:salmon, 76, water_ambient
+Minecraft, minecraft:sheep, 77, creature
+Minecraft, minecraft:shulker, 78, monster
+Minecraft, minecraft:shulker_bullet, 79, misc
+Minecraft, minecraft:silverfish, 80, monster
+Minecraft, minecraft:skeleton, 81, monster
+Minecraft, minecraft:skeleton_horse, 82, creature
+Minecraft, minecraft:slime, 83, monster
+Minecraft, minecraft:small_fireball, 84, misc
+Minecraft, minecraft:snow_golem, 85, misc
+Minecraft, minecraft:snowball, 86, misc
+Minecraft, minecraft:spawner_minecart, 58, misc
+Minecraft, minecraft:spectral_arrow, 87, misc
+Minecraft, minecraft:spider, 88, monster
+Minecraft, minecraft:squid, 89, water_creature
+Minecraft, minecraft:stray, 90, monster
+Minecraft, minecraft:strider, 91, creature
+Minecraft, minecraft:tadpole, 92, creature
+Minecraft, minecraft:tnt, 72, misc
+Minecraft, minecraft:tnt_minecart, 59, misc
+Minecraft, minecraft:trader_llama, 98, creature
+Minecraft, minecraft:trident, 97, misc
+Minecraft, minecraft:tropical_fish, 99, water_ambient
+Minecraft, minecraft:turtle, 100, creature
+Minecraft, minecraft:vex, 101, monster
+Minecraft, minecraft:villager, 102, misc
+Minecraft, minecraft:vindicator, 103, monster
+Minecraft, minecraft:wandering_trader, 104, creature
+Minecraft, minecraft:warden, 105, monster
+Minecraft, minecraft:witch, 106, monster
+Minecraft, minecraft:wither, 107, monster
+Minecraft, minecraft:wither_skeleton, 108, monster
+Minecraft, minecraft:wither_skull, 109, misc
+Minecraft, minecraft:wolf, 110, creature
+Minecraft, minecraft:zoglin, 111, monster
+Minecraft, minecraft:zombie, 112, monster
+Minecraft, minecraft:zombie_horse, 113, creature
+Minecraft, minecraft:zombie_villager, 114, monster
+Minecraft, minecraft:zombified_piglin, 115, monster
+MmmMmmMmmmmm, dummmmmmy:target_dummy, 497, misc
+Obscure API, obscure_api:vfx, 672, misc
+Occultism, occultism:afrit, 324, creature
+Occultism, occultism:afrit_wild, 325, creature
+Occultism, occultism:bat_familiar, 335, creature
+Occultism, occultism:beaver_familiar, 349, creature
+Occultism, occultism:beholder_familiar, 346, creature
+Occultism, occultism:blacksmith_familiar, 340, creature
+Occultism, occultism:chimera_familiar, 343, creature
+Occultism, occultism:cthulhu_familiar, 337, creature
+Occultism, occultism:deer_familiar, 336, creature
+Occultism, occultism:devil_familiar, 338, creature
+Occultism, occultism:djinni, 323, creature
+Occultism, occultism:dragon_familiar, 339, creature
+Occultism, occultism:fairy_familiar, 347, creature
+Occultism, occultism:foliot, 322, creature
+Occultism, occultism:goat_familiar, 344, creature
+Occultism, occultism:greedy_familiar, 334, creature
+Occultism, occultism:guardian_familiar, 341, creature
+Occultism, occultism:headless_familiar, 342, creature
+Occultism, occultism:marid, 326, creature
+Occultism, occultism:mummy_familiar, 348, creature
+Occultism, occultism:otherworld_bird, 333, creature
+Occultism, occultism:possessed_enderman, 329, monster
+Occultism, occultism:possessed_endermite, 327, monster
+Occultism, occultism:possessed_ghast, 330, monster
+Occultism, occultism:possessed_skeleton, 328, monster
+Occultism, occultism:shub_niggurath_familiar, 345, creature
+Occultism, occultism:shub_niggurath_spawn, 351, creature
+Occultism, occultism:thrown_sword, 350, misc
+Occultism, occultism:wild_hunt_skeleton, 331, monster
+Occultism, occultism:wild_hunt_wither_skeleton, 332, monster
+Progressive Bosses, progressivebosses:larva, 496, monster
+Progressive Bosses, progressivebosses:wither_minion, 495, monster
+Quark, quark:crab, 848, creature
+Quark, quark:dyed_item_frame, 834, misc
+Quark, quark:echorang, 839, misc
+Quark, quark:flamerang, 838, misc
+Quark, quark:forgotten, 847, monster
+Quark, quark:foxhound, 846, creature
+Quark, quark:glass_frame, 850, misc
+Quark, quark:gravisand, 851, misc
+Quark, quark:parrot_egg, 840, misc
+Quark, quark:pickarang, 837, misc
+Quark, quark:quark_boat, 853, misc
+Quark, quark:quark_chest_boat, 854, misc
+Quark, quark:shiba, 845, creature
+Quark, quark:skull_pike, 836, misc
+Quark, quark:soul_bead, 842, misc
+Quark, quark:stoneling, 844, creature
+Quark, quark:stool, 849, misc
+Quark, quark:torch_arrow, 835, misc
+Quark, quark:toretoise, 843, creature
+Quark, quark:totem, 852, misc
+Quark, quark:wraith, 841, monster
+Randomium, randomium:moving_block, 739, misc
+Regions Unexplored, regions_unexplored:boat, 763, misc
+Regions Unexplored, regions_unexplored:chest_boat, 764, misc
+Reliquary, reliquary:aphrodite_potion, 815, misc
+Reliquary, reliquary:blaze_shot, 818, misc
+Reliquary, reliquary:buster_shot, 819, misc
+Reliquary, reliquary:concussive_shot, 820, misc
+Reliquary, reliquary:ender_shot, 821, misc
+Reliquary, reliquary:ender_staff_projectile, 827, misc
+Reliquary, reliquary:exorcism_shot, 822, misc
+Reliquary, reliquary:fertile_potion, 816, misc
+Reliquary, reliquary:glowing_water, 828, misc
+Reliquary, reliquary:holy_hand_grenade, 829, misc
+Reliquary, reliquary:kraken_slime, 830, misc
+Reliquary, reliquary:lyssa_hook, 831, misc
+Reliquary, reliquary:neutral_shot, 823, misc
+Reliquary, reliquary:sand_shot, 824, misc
+Reliquary, reliquary:seeker_shot, 825, misc
+Reliquary, reliquary:special_snowball, 833, misc
+Reliquary, reliquary:storm_shot, 826, misc
+Reliquary, reliquary:thrown_potion, 817, misc
+Reliquary, reliquary:tipped_arrow, 832, misc
+Savage & Ravage, savage_and_ravage:burning_banner, 713, misc
+Savage & Ravage, savage_and_ravage:confusion_bolt, 719, misc
+Savage & Ravage, savage_and_ravage:creepie, 707, creature
+Savage & Ravage, savage_and_ravage:executioner, 712, monster
+Savage & Ravage, savage_and_ravage:griefer, 708, monster
+Savage & Ravage, savage_and_ravage:ice_chunk, 716, misc
+Savage & Ravage, savage_and_ravage:ice_cloud, 717, misc
+Savage & Ravage, savage_and_ravage:iceologer, 711, monster
+Savage & Ravage, savage_and_ravage:mischief_arrow, 710, misc
+Savage & Ravage, savage_and_ravage:rune_prison, 718, misc
+Savage & Ravage, savage_and_ravage:skeleton_villager, 706, monster
+Savage & Ravage, savage_and_ravage:spore_bomb, 715, misc
+Savage & Ravage, savage_and_ravage:spore_cloud, 714, misc
+Savage & Ravage, savage_and_ravage:trickster, 709, monster
+Sophisticated Backpacks, sophisticatedbackpacks:everlasting_backpack_item, 494, misc
+Spelunkery, spelunkery:glowstick, 759, misc
+Spelunkery, spelunkery:mineomite, 760, misc
+Spelunkery, spelunkery:primed_mineomite, 762, misc
+Spelunkery, spelunkery:thrown_primed_mineomite, 761, misc
+Spirit, spirit:soul, 644, misc
+Spirit, spirit:soul_arrow, 643, misc
+Stalwart Dungeons, stalwart_dungeons:awful_ghast, 129, monster
+Stalwart Dungeons, stalwart_dungeons:giddy_blaze, 131, monster
+Stalwart Dungeons, stalwart_dungeons:incomplete_wither, 132, monster
+Stalwart Dungeons, stalwart_dungeons:nether_keeper, 130, monster
+Stalwart Dungeons, stalwart_dungeons:nether_wart_cocoon, 140, monster
+Stalwart Dungeons, stalwart_dungeons:projectile_awful_dungeon_spawner, 127, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_awful_gun, 126, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_cannon_pr, 143, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_chorundum_shield, 134, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_end_dungeon_spawner, 135, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_keeping_castle_spawner, 128, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_levitation_projectile, 138, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_spore_bottle, 123, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_tungsten_shield, 124, misc
+Stalwart Dungeons, stalwart_dungeons:projectile_warted_tungsten_shield, 125, misc
+Stalwart Dungeons, stalwart_dungeons:propulk, 136, creature
+Stalwart Dungeons, stalwart_dungeons:reinforced_blaze, 133, monster
+Stalwart Dungeons, stalwart_dungeons:shelterer, 137, monster
+Stalwart Dungeons, stalwart_dungeons:shelterer_without_armor, 141, monster
+Stalwart Dungeons, stalwart_dungeons:shulker_cannon, 142, misc
+Stalwart Dungeons, stalwart_dungeons:spore_projectile, 139, monster
+Sully's Mod, sullysmod:copper_golem, 661, creature
+Sully's Mod, sullysmod:lanternfish, 662, water_ambient
+Sully's Mod, sullysmod:tortoise, 663, creature
+Supplementaries, supplementaries:bomb, 863, misc
+Supplementaries, supplementaries:brick_projectile, 862, misc
+Supplementaries, supplementaries:dispenser_minecart, 856, misc
+Supplementaries, supplementaries:falling_ash, 859, misc
+Supplementaries, supplementaries:falling_lantern, 860, misc
+Supplementaries, supplementaries:falling_sack, 861, misc
+Supplementaries, supplementaries:falling_urn, 858, misc
+Supplementaries, supplementaries:pearl_marker, 855, misc
+Supplementaries, supplementaries:red_merchant, 857, creature
+Supplementaries, supplementaries:rope_arrow, 864, misc
+Supplementaries, supplementaries:slingshot_projectile, 865, misc
+Tempad, tempad:timedoor, 499, misc
+Tetra, tetra:extractor_projectile, 353, misc
+Tetra, tetra:thrown_modular_item, 352, misc
+The Bumblezone, the_bumblezone:bee_queen, 184, creature
+The Bumblezone, the_bumblezone:bee_stinger, 187, misc
+The Bumblezone, the_bumblezone:beehemoth, 183, creature
+The Bumblezone, the_bumblezone:honey_crystal_shard, 188, misc
+The Bumblezone, the_bumblezone:honey_slime, 182, creature
+The Bumblezone, the_bumblezone:pollen_puff, 185, misc
+The Bumblezone, the_bumblezone:thrown_stinger_spear, 186, misc
+The Graveyard, graveyard:acolyte, 242, monster
+The Graveyard, graveyard:corrupted_pillager, 250, monster
+The Graveyard, graveyard:corrupted_vindicator, 251, monster
+The Graveyard, graveyard:falling_corpse, 247, monster
+The Graveyard, graveyard:ghoul, 244, monster
+The Graveyard, graveyard:ghouling, 252, creature
+The Graveyard, graveyard:lich, 248, monster
+The Graveyard, graveyard:nameless_hanged, 254, creature
+The Graveyard, graveyard:nightmare, 245, monster
+The Graveyard, graveyard:reaper, 243, monster
+The Graveyard, graveyard:revenant, 246, monster
+The Graveyard, graveyard:skeleton_creeper, 241, monster
+The Graveyard, graveyard:skull, 253, misc
+The Graveyard, graveyard:wraith, 249, monster
+Unusual End, unusualend:bolok, 154, monster
+Unusual End, unusualend:dragling, 153, monster
+Unusual End, unusualend:ender_blob, 150, monster
+Unusual End, unusualend:ender_firefly, 151, monster
+Unusual End, unusualend:endstone_golem, 152, monster
+Unusual End, unusualend:endstone_trapper, 148, monster
+Unusual End, unusualend:projectile_creative_wandering_pearl, 156, misc
+Unusual End, unusualend:projectile_phantom_arrow, 147, misc
+Unusual End, unusualend:undead_enderling, 149, monster
+Unusual End, unusualend:warpedislandplacer, 155, monster
+Unusual Prehistory, unusualprehistory:amber_shot, 277, misc
+Unusual Prehistory, unusualprehistory:ammon, 264, water_creature
+Unusual Prehistory, unusualprehistory:ammon_render, 287, misc
+Unusual Prehistory, unusualprehistory:antarcto_render, 305, misc
+Unusual Prehistory, unusualprehistory:antarctopelta, 283, creature
+Unusual Prehistory, unusualprehistory:anuro, 262, creature
+Unusual Prehistory, unusualprehistory:anuro_render, 292, misc
+Unusual Prehistory, unusualprehistory:austro_render, 302, misc
+Unusual Prehistory, unusualprehistory:austroraptor, 282, creature
+Unusual Prehistory, unusualprehistory:baby_brachi, 280, creature
+Unusual Prehistory, unusualprehistory:baby_dunk, 268, water_ambient
+Unusual Prehistory, unusualprehistory:baby_rex, 279, creature
+Unusual Prehistory, unusualprehistory:beelz, 263, creature
+Unusual Prehistory, unusualprehistory:beelz_render, 291, misc
+Unusual Prehistory, unusualprehistory:beelz_tadpole, 267, water_ambient
+Unusual Prehistory, unusualprehistory:brachi, 273, creature
+Unusual Prehistory, unusualprehistory:brachi_render, 297, misc
+Unusual Prehistory, unusualprehistory:brachi_teen, 272, creature
+Unusual Prehistory, unusualprehistory:coty, 266, creature
+Unusual Prehistory, unusualprehistory:coty_render, 290, misc
+Unusual Prehistory, unusualprehistory:dunk, 265, water_creature
+Unusual Prehistory, unusualprehistory:dunk_render, 289, misc
+Unusual Prehistory, unusualprehistory:encrusted, 276, monster
+Unusual Prehistory, unusualprehistory:encrusted_render, 300, misc
+Unusual Prehistory, unusualprehistory:entity_trail, 307, misc
+Unusual Prehistory, unusualprehistory:eryon, 281, creature
+Unusual Prehistory, unusualprehistory:eryon_render, 301, misc
+Unusual Prehistory, unusualprehistory:hwacha_render, 306, misc
+Unusual Prehistory, unusualprehistory:hwacha_spike, 278, misc
+Unusual Prehistory, unusualprehistory:hwachavenator, 286, creature
+Unusual Prehistory, unusualprehistory:kentro_render, 304, misc
+Unusual Prehistory, unusualprehistory:kentrosaurus, 285, creature
+Unusual Prehistory, unusualprehistory:majunga, 261, creature
+Unusual Prehistory, unusualprehistory:majunga_render, 288, misc
+Unusual Prehistory, unusualprehistory:pachy, 271, creature
+Unusual Prehistory, unusualprehistory:pachy_render, 296, misc
+Unusual Prehistory, unusualprehistory:raptor_render, 298, misc
+Unusual Prehistory, unusualprehistory:rex, 275, creature
+Unusual Prehistory, unusualprehistory:rex_render, 299, misc
+Unusual Prehistory, unusualprehistory:scau, 269, water_ambient
+Unusual Prehistory, unusualprehistory:scau_render, 294, misc
+Unusual Prehistory, unusualprehistory:stetha_render, 293, misc
+Unusual Prehistory, unusualprehistory:stethacanthus, 260, water_creature
+Unusual Prehistory, unusualprehistory:trike, 270, creature
+Unusual Prehistory, unusualprehistory:trike_render, 295, misc
+Unusual Prehistory, unusualprehistory:ulugh_render, 303, misc
+Unusual Prehistory, unusualprehistory:ulughbegsaurus, 284, creature
+Unusual Prehistory, unusualprehistory:veloci, 274, creature
+Unusual Prehistory, unusualprehistory:world_spawnable, 308, misc
+Upgrade Aquatic, upgrade_aquatic:box_jellyfish, 730, water_creature
+Upgrade Aquatic, upgrade_aquatic:cassiopea_jellyfish, 731, water_creature
+Upgrade Aquatic, upgrade_aquatic:flare, 727, monster
+Upgrade Aquatic, upgrade_aquatic:goose, 729, creature
+Upgrade Aquatic, upgrade_aquatic:great_thrasher, 726, monster
+Upgrade Aquatic, upgrade_aquatic:immortal_jellyfish, 732, water_creature
+Upgrade Aquatic, upgrade_aquatic:lionfish, 724, water_ambient
+Upgrade Aquatic, upgrade_aquatic:nautilus, 721, water_ambient
+Upgrade Aquatic, upgrade_aquatic:perch, 723, water_ambient
+Upgrade Aquatic, upgrade_aquatic:pike, 722, water_ambient
+Upgrade Aquatic, upgrade_aquatic:sonar_wave, 720, misc
+Upgrade Aquatic, upgrade_aquatic:thrasher, 725, monster
+Upgrade Aquatic, upgrade_aquatic:ululu, 728, monster
+Vinery, vinery:boat, 656, misc
+Vinery, vinery:chair, 655, misc
+Vinery, vinery:chest_boat, 657, misc
+Vinery, vinery:mule, 653, creature
+Vinery, vinery:wandering_winemaker, 654, creature
+Wandering Bags, wandering_bags:projectile_spell, 364, misc
+Wandering Bags, wandering_bags:projectile_spice_from_elsewhere, 363, misc
+Wandering Bags, wandering_bags:tamed_ravager, 365, monster
+Whisperwoods, whisperwoods:hidebehind, 311, monster
+Whisperwoods, whisperwoods:hirschgeist, 313, creature
+Whisperwoods, whisperwoods:hirschgeist_fireball, 309, misc
+Whisperwoods, whisperwoods:moth, 310, ambient
+Whisperwoods, whisperwoods:wisp, 312, creature
+Whisperwoods, whisperwoods:zotzpyre, 314, monster
+You're Seeing Dungeons, youre_seeing_dungeons:desastrous_creature, 784, monster
+You're Seeing Dungeons, youre_seeing_dungeons:desert_pillager, 775, monster
+You're Seeing Dungeons, youre_seeing_dungeons:desert_pillager_patrol, 806, creature
+You're Seeing Dungeons, youre_seeing_dungeons:desert_pillager_shadow, 774, monster
+You're Seeing Dungeons, youre_seeing_dungeons:desert_pillager_slingshot, 777, monster
+You're Seeing Dungeons, youre_seeing_dungeons:desert_pillager_tamer, 776, monster
+You're Seeing Dungeons, youre_seeing_dungeons:despair_boss_seed, 809, monster
+You're Seeing Dungeons, youre_seeing_dungeons:despair_creature, 792, monster
+You're Seeing Dungeons, youre_seeing_dungeons:despair_creature_head, 808, monster
+You're Seeing Dungeons, youre_seeing_dungeons:despair_structure_seed, 810, monster
+You're Seeing Dungeons, youre_seeing_dungeons:dimensional_rift, 793, monster
+You're Seeing Dungeons, youre_seeing_dungeons:dimensional_rift_summoned, 794, monster
+You're Seeing Dungeons, youre_seeing_dungeons:divina_guardian, 782, monster
+You're Seeing Dungeons, youre_seeing_dungeons:eaged_creature, 788, monster
+You're Seeing Dungeons, youre_seeing_dungeons:emanciated_creature, 787, monster
+You're Seeing Dungeons, youre_seeing_dungeons:emanciated_creature_tameable, 796, monster
+You're Seeing Dungeons, youre_seeing_dungeons:epitaph_creature, 789, monster
+You're Seeing Dungeons, youre_seeing_dungeons:fiery_orb, 813, creature
+You're Seeing Dungeons, youre_seeing_dungeons:gloomy_boss_seed, 801, monster
+You're Seeing Dungeons, youre_seeing_dungeons:grief_creature, 783, monster
+You're Seeing Dungeons, youre_seeing_dungeons:hatred_creature, 785, monster
+You're Seeing Dungeons, youre_seeing_dungeons:heaven_seed, 803, monster
+You're Seeing Dungeons, youre_seeing_dungeons:hermit_skeleton, 768, monster
+You're Seeing Dungeons, youre_seeing_dungeons:hermit_skeleton_mini_boss, 773, monster
+You're Seeing Dungeons, youre_seeing_dungeons:horned_skeleton, 767, monster
+You're Seeing Dungeons, youre_seeing_dungeons:light_critter, 779, monster
+You're Seeing Dungeons, youre_seeing_dungeons:light_critter_rings, 781, monster
+You're Seeing Dungeons, youre_seeing_dungeons:lying_creature, 791, monster
+You're Seeing Dungeons, youre_seeing_dungeons:morbid_creature, 786, monster
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_desert_pillager_slingshot, 778, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_divina_staff, 766, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_epic_blast, 807, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_gloomy_projectile, 811, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_gloomy_rod, 765, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_gloomy_ruins_spawner, 797, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_helpless_castle_spawner, 798, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_light_palace_spawner, 799, misc
+You're Seeing Dungeons, youre_seeing_dungeons:projectile_mucus_projectile, 805, misc
+You're Seeing Dungeons, youre_seeing_dungeons:pyromaniac_skeleton, 770, monster
+You're Seeing Dungeons, youre_seeing_dungeons:real_gloomy_skeleton, 772, monster
+You're Seeing Dungeons, youre_seeing_dungeons:rough_skeleton, 769, monster
+You're Seeing Dungeons, youre_seeing_dungeons:seed_gloomy_ruins, 802, monster
+You're Seeing Dungeons, youre_seeing_dungeons:seed_heaven_boss, 804, monster
+You're Seeing Dungeons, youre_seeing_dungeons:silverfish_hive, 771, monster
+You're Seeing Dungeons, youre_seeing_dungeons:sparks, 780, monster
+You're Seeing Dungeons, youre_seeing_dungeons:summoned_horned_skeleton, 812, monster
+You're Seeing Dungeons, youre_seeing_dungeons:supreme_ender_eye, 800, monster
+You're Seeing Dungeons, youre_seeing_dungeons:the_attractor, 790, monster
+You're Seeing Dungeons, youre_seeing_dungeons:the_attractor_mutated, 795, monster
+brutalbosses mod, brutalbosses:thrownitem, 908, misc
+create: things and misc, create_things_and_misc:ballon_blaze, 360, monster
+create: things and misc, create_things_and_misc:hot_air_ballon, 362, monster
+create: things and misc, create_things_and_misc:projectile_blaze_ballon_fire, 361, misc
+create: things and misc, create_things_and_misc:projectile_neon_tube, 359, misc
+create: things and misc, create_things_and_misc:projectile_spout_gun_chocolate, 356, misc
+create: things and misc, create_things_and_misc:projectile_spout_gun_honey, 357, misc
+create: things and misc, create_things_and_misc:projectile_spout_gun_lava, 355, misc
+create: things and misc, create_things_and_misc:projectile_spout_gun_slime, 358, misc
+create: things and misc, create_things_and_misc:projectile_spout_gun_water, 354, misc
+-------------------------------------
+Mod name, Registry name, ID, Category
+-------------------------------------

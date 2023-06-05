@@ -29,5 +29,9 @@ ServerEvents.recipes(event => {
         'apotheosis:prismatic_web'
     ].forEach((recipeID) => event.remove({id: recipeID}));
 
-    event.remove({not: { type: 'create:mixing' }, output: 'art_of_forging:forged_steel_ingot'})
+    event.remove({not: { type: 'create:mixing' }, output: 'art_of_forging:forged_steel_ingot'});
+
+    ['helmet', 'chestplate', 'leggings', 'boots'].forEach((armor) => {
+        event.remove({output: `wandering_bags:silver_armor_${armor}`})
+      });
 });
