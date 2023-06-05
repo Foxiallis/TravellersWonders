@@ -1,6 +1,8 @@
 {
   "blacklisted_entities": [
-    "any_mod:example_entity",
-    "any_mod:another_example_entity"
+    "born_in_chaos_v1:door_knight",
+    "born_in_chaos_v1:door_knight_not_despawn",
+    "born_in_chaos_v1:zombie_clown",
+    "born_in_chaos_v1:zombie_clown_not_despawn"
   ]
 }
