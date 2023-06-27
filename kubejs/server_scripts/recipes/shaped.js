@@ -16,4 +16,30 @@ ServerEvents.recipes(event => {
         D: 'spelunkery:rough_diamond_shard',
         P: 'minecraft:paper'
     })
+
+    event.shaped('enigmaticlegacy:the_cube', [
+        'ABC',
+        'DEF',
+        'GBI'
+    ], {
+        A: 'enigmaticlegacy:golem_heart',
+        C: 'enigmaticlegacy:eye_of_nebula',
+        D: 'enigmaticlegacy:blazing_core',
+        E: 'kubejs:eoe',
+        F: 'enigmaticlegacy:ocean_stone',
+        G: 'enigmaticlegacy:void_pearl',
+        I: 'enigmaticlegacy:angel_blessing',
+        B: 'enigmaticlegacy:cosmic_heart'
+    })
+
+    event.shaped('tempad:tempad', [
+        'QQQ',
+        'CSG',
+        'QQQ'
+    ], {
+        Q: 'minecraft:quartz',
+        C: 'minecraft:clock',
+        G: 'minecraft:glowstone',
+        S: 'minecraft:nether_star'
+    })
 });

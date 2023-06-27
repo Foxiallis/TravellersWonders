@@ -26,7 +26,12 @@ ServerEvents.recipes(event => {
 
         'reliquary:alkahestry/crafting/silver_ingot',
 
-        'apotheosis:prismatic_web'
+        'apotheosis:prismatic_web',
+
+        //Cube original recipe removal
+        'enigmaticlegacy:crafting/the_cube',
+
+        'tempad:tempad'
     ].forEach((recipeID) => event.remove({id: recipeID}));
 
     event.remove({not: { type: 'create:mixing' }, output: 'art_of_forging:forged_steel_ingot'});

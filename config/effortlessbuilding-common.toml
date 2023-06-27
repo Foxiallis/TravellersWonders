@@ -12,16 +12,16 @@
 	#Reach upgrades are craftable consumables that permanently increase reach.
 	#Set to 0 to disable Effortless Building until the player has consumed a reach upgrade.
 	#Range: 0 ~ 1000
-	maxReachLevel0 = 0
+	maxReachLevel0 = 20
 	#Maximum reach in survival with one upgrade
 	#Range: 0 ~ 1000
-	maxReachLevel1 = 10
+	maxReachLevel1 = 50
 	#Maximum reach in survival with two upgrades
 	#Range: 0 ~ 1000
-	maxReachLevel2 = 25
+	maxReachLevel2 = 100
 	#Maximum reach in survival with three upgrades
 	#Range: 0 ~ 1000
-	maxReachLevel3 = 50
+	maxReachLevel3 = 200
 
 [SurvivalBalancers]
 	#Determines what blocks can be replaced in survival.

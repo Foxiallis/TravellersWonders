@@ -1,0 +1,7 @@
+#Thu Jun 08 16:54:29 CEST 2023
+CHOCAPIC_CLOUDS=false
+VL_BLUR=1.7
+SHADOW_FILTER=1
+shadowMapResolution=3072
+Stars=false
+VL_QUALITY=2.0

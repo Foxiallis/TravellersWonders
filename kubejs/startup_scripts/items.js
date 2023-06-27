@@ -1,3 +1,7 @@
+StartupEvents.registry('item', event => {
+    event.create('eoe').displayName('Essence of Everything')
+})
+
 ItemEvents.modification(event => {
     ['helmet', 'chestplate', 'leggings', 'boots'].forEach((armor) => {
         event.modify(`deeperdarker:warden_${armor}`, item => {
