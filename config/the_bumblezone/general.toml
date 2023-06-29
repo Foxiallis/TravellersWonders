@@ -180,3 +180,15 @@
 	#Range: -5 ~ 5
 	crystallineFlowerExtraTierCost = 0
 
+["Brewing Recipe Options"]
+	# 
+	#-----------------------------------------------------
+	#
+	# Whether Glistering Honey Crystals can be used to make Potions of Luck
+	glisteringHoneyBrewingRecipe = true
+	# 
+	#-----------------------------------------------------
+	#
+	# Whether Bee Stingers can be used to make Potions of Long Poison
+	beeStingerBrewingRecipe = true
+
